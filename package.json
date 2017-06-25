@@ -1,0 +1,15 @@
+{
+  "name": "cl-watch",
+  "version": "1.0.0",
+  "description": "Watch craigslist searches for multiple cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "logan",
+  "license": "ISC",
+  "dependencies": {
+    "node-craigslist": "^1.1.2"
+  },
+  "devDependencies": {}
+}
